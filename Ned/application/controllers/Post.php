@@ -1,4 +1,9 @@
 <?php
+/* Made with love <3
+By Mohammed TABIT,
+FUCK THIS 
+AGAIN!
+*/
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Post extends CI_Controller {
